@@ -21,6 +21,6 @@ dataLayer.push({
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |event_data.method|string|Captures the website method \(i.e. search, top nav\) used to find each product.|email, facebook, twitter|||||||
 
+## Attached Notes
 
-
-
+<p><img src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/User%20Signed%20In.png" alt="" /></p>

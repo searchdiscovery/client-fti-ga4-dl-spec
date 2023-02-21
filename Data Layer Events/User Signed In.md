@@ -23,4 +23,4 @@ dataLayer.push({
 
 ## Attached Notes
 
-<p><img src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/User%20Signed%20In.png" alt="" /></p>
+<p><img title="User Login" src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/User%20Signed%20In.png" alt="" /></p>

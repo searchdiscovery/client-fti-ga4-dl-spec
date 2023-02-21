@@ -1,4 +1,4 @@
-# Error Message Presented
+# Scroll Depth Tracking
 
 ### 
 
@@ -7,10 +7,11 @@
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({ event_data: null });  // Clear the previous event_data object.
 dataLayer.push({
-  "event": "site_error",
-  "detailed_event": "Error Message Presented",
+  "event": "scroll_depth",
+  "detailed_event": "Scroll Depth Tracking",
+    "action": "<action>",
     "event_data": {
-        "type": "<type>"
+        "milestone": "<milestone>"
     }
 });
 ```
@@ -19,7 +20,8 @@ dataLayer.push({
 
 |Path|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|event_data.type|string|Captures the type of error.|Payment, System, Form|||||||
+|action|string|The generic action of an event property||||||||
+|event_data.milestone|string|The milestone parameter for the scroll depth event|"25", "50", "75"|||||||
 
 
 

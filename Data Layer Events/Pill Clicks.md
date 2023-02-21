@@ -1,4 +1,4 @@
-# Print Click
+# Pill Clicks
 
 ### 
 
@@ -7,8 +7,8 @@
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({ event_data: null });  // Clear the previous event_data object.
 dataLayer.push({
-  "event": "printEvent",
-  "detailed_event": "Print Click",
+  "event": "pillClick",
+  "detailed_event": "Pill Clicks",
     "action": "<action>",
     "event_data": {
         "action": "<action>",

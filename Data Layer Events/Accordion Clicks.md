@@ -35,6 +35,9 @@ dataLayer.push({
 |event_data.outbound|boolean|Does the link point to a different domain?|true, false|||||||
 |name|string|The generic name of an event property||||||||
 
+## Notes
 
+<p>Add the code snippet below to the click event of accordion links.</p>
+<p><img src=""https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Accordion.png""/></p>
 
 

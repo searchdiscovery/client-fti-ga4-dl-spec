@@ -35,6 +35,7 @@ dataLayer.push({
 |event_data.outbound|boolean|Does the link point to a different domain?|true, false|||||||
 |name|string|The generic name of an event property||||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;&lt;p&gt;Add the code snippet below to the click event of accordion links.&lt;/p&gt;\n&lt;p&gt;&lt;img src=\&quot;https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Accordion.png\&quot;/&gt;&lt;/p&gt;&quot;}" data-sheets-userformat="{&quot;2&quot;:1053313,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:2,&quot;12&quot;:0,&quot;15&quot;:&quot;Arial&quot;,&quot;23&quot;:1}" data-sheets-formula="=CONCATENATE(&quot;&lt;p&gt;&quot;,R[0]C[-3], &quot;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;,R[0]C[-2],&quot;/&gt;&lt;/p&gt;&quot;)">&lt;p&gt;Add the code snippet below to the click event of accordion links.&lt;/p&gt;<br />&lt;p&gt;&lt;img src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Accordion.png"/&gt;&lt;/p&gt;</span></p>

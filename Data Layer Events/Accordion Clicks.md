@@ -37,5 +37,5 @@ dataLayer.push({
 
 ## Attached Notes
 
-<pre class="language-markup"><code>&lt;p&gt;Add the code snippet below to the click event of accordion links.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Accordion.png"/&gt;&lt;/p&gt;</code></pre>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Add the code snippet below to the click event of accordion links.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}">Add the code snippet below to the click event of accordion link</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Add the code snippet below to the click event of accordion links.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}"><img title="Batch Download or Email" src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Batch%20Download%20or%20Email.png" alt="" /><img title="Batch Download Email" src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Batch%20Download%20or%20Email.png" alt="" /></span></p>

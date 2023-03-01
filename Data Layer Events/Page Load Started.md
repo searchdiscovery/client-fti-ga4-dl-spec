@@ -48,7 +48,10 @@ dataLayer.push({
         "personalization_target": "<personalization_target>",
         "personalization_type": "<personalization_type>",
         "publication_series": "<publication_series>",
-        "type": "<type>"
+        "publish_date": "<publish_date>",
+        "segmentation": "<segmentation>",
+        "type": "<type>",
+        "vehicle": "<vehicle>"
     },
     "page_location": "<page_location>",
     "page_subcategory": "<page_subcategory>",
@@ -106,7 +109,10 @@ dataLayer.push({
 |page_data.personalization_target|string|The targeting that triggered the personalization||||||||
 |page_data.personalization_type|string|The type of personalization||||||||
 |page_data.publication_series|string|The series for the article||||||||
+|page_data.publish_date|string|The article publish date||||||||
+|page_data.segmentation|string|The segment attached to an article||||||||
 |page_data.type|string|The type of page currently viewed.|home, pdp, article|||||||
+|page_data.vehicle|string|This is the investment vehicle tag||||||||
 |page_location|string|The full page url||||||||
 |page_subcategory|string|The page subcategory as defined by menu navigation|"investment options"|||||||
 |page_title|string|This is the page title for the UA reporting structure||||||||

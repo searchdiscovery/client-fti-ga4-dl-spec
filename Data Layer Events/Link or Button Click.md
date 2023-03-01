@@ -1,4 +1,4 @@
-# Link/Button Click
+# Link or Button Click
 
 ### 
 
@@ -8,7 +8,7 @@ window.dataLayer = window.dataLayer || [];
 dataLayer.push({ event_data: null });  // Clear the previous event_data object.
 dataLayer.push({
   "event": "linkOrButtonClick",
-  "detailed_event": "Link/Button Click",
+  "detailed_event": "Link or Button Click",
     "event_data": {
         "category": "<category>",
         "link_id": "<link_id>",

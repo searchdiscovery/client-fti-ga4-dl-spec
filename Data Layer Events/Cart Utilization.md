@@ -31,6 +31,7 @@ dataLayer.push({
 |file_lit_code|string|The literature code for the file.  Only applicable for US site||||||||
 |file_name|string|The human readable file name - non-US sites will use the PDF file name|Fun Fact Sheet|||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below when a product is added to the cart or when the download/email/direct mail form is submitted successfully&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}">Fire the code snippet below when a product is added to the cart or when the download/email/direct mail form is submitted successfully</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below when a product is added to the cart or when the download/email/direct mail form is submitted successfully&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}"><img title="Cart Utilization" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Cart%20Utilization.png&quot;" alt="" /></span></p>

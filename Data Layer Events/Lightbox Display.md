@@ -30,4 +30,4 @@ dataLayer.push({
 ## Attached Notes
 
 <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Add the code snippet below such that it executes when a lightbox is displayed.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}">Add the code snippet below such that it executes when a lightbox is displayed.</span></p>
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Add the code snippet below such that it executes when a lightbox is displayed.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}"><img title="Lightbox" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Lightbox.png&quot;" alt="" /></span></p>
+<p><img title="Lightbox" src="https://github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Lightbox.png?raw=true" alt="" /></p>

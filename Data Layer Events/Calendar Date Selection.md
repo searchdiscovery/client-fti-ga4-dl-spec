@@ -27,6 +27,7 @@ dataLayer.push({
 |event_data.date_value|string|the dates or range of dates selected||||||||
 |label|string|The generic label of an event property||||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Add the code snippet below so that it executes when a date range selector is interacted with.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}">Add the code snippet below so that it executes when a date range selector is interacted with.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Add the code snippet below so that it executes when a date range selector is interacted with.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}"><img title="Calendar Date Selection" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Calendar%20Date%20Selection.png&quot;" alt="" /></span></p>

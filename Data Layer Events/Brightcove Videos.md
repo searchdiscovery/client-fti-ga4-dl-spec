@@ -37,6 +37,7 @@ dataLayer.push({
 |videoCategory|string|This is the video category for the UA reporting||||||||
 |videoLabel|string|This is the video label for UA reporting||||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Developers will configure data layers leveraging Brightcove data.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}">Developers will configure data layers leveraging Brightcove data.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Developers will configure data layers leveraging Brightcove data.&quot;}" data-sheets-userformat="{&quot;2&quot;:14849,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:11}"><img title="Brightcove Videos" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Brightcove%20Videos.png&quot;" alt="" /></span></p>

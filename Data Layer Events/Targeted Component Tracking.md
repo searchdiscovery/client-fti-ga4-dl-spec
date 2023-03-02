@@ -27,6 +27,7 @@ dataLayer.push({
 |event_data.target_component_label|string|denotes the name of the targeted component that appeared or was clicked on||||||||
 |label|string|The generic label of an event property||||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below as a user is exposed to and/or clicks on a Targeted component.&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Fire the code snippet below as a user is exposed to and/or clicks on a Targeted component.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below as a user is exposed to and/or clicks on a Targeted component.&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}"><img title="Targeted Component Tracking" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Targeted%20Component%20Tracking.png&quot;" alt="" /></span></p>

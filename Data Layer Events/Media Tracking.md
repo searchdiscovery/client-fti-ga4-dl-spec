@@ -35,6 +35,9 @@ dataLayer.push({
 |name|string|The generic name of an event property||||||||
 |type|string|The type of callout|"card", "billboard", "banner"|||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below when\nan audio file loads on the site\nis played \npercentage consumed of the media (25%, 50%, 75%, 100%)\ninteractions such as pause, scrub, fast forward&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Fire the code snippet below when an audio file loads on the site is played percentage consumed of the media (25%, 50%, 75%, 100%) interactions such as pause, scrub, fast forward</span></p>
+<p><img title="Media Tracking - Audio" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Media%20Tracking%20-%20Audio.png&quot;" alt="" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

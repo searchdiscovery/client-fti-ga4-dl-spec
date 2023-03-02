@@ -31,6 +31,7 @@ dataLayer.push({
 |search_num_results|number|The number of results returned||||||||
 |search_term|string|The keyword entered by a user for a search.||||||||
 
+## Attached Notes
 
-
-
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below when Instant Display results appears&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Fire the code snippet below when Instant Display results appears</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fire the code snippet below when Instant Display results appears&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}"><img title="Site Search - Results Returned" src="&quot;https:/github.com/searchdiscovery/client-fti-ga4-dl-spec/blob/main/images/Site%20Search%20%E2%80%93%20Results%20Returned.png&quot;" alt="" /></span></p>

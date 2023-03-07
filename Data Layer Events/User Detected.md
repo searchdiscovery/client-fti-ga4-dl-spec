@@ -26,6 +26,7 @@ dataLayer.push({
     "state_code": "<state_code>",
     "subsegment": "<subsegment>",
     "user_data": {
+        "accounts_assigned": "<accounts_assigned>",
         "country_code": "<country_code>",
         "data_service_actor": "<data_service_actor>",
         "dealer_number": "<dealer_number>",
@@ -75,6 +76,7 @@ dataLayer.push({
 |role_type_track|string|uses the role type hierarchy||||||||
 |state_code|string|The two digit state code||||||||
 |subsegment|string|The subsegment||||||||
+|user_data.accounts_assigned|string|The accounts assigned||||||||
 |user_data.country_code|string|The two character country code||||||||
 |user_data.data_service_actor|string|The data service actor||||||||
 |user_data.dealer_number|string|The dealer number||||||||

@@ -100,6 +100,15 @@ dataLayer.push({
 |web_experience|string|The web experience||||||||
 |zip|string|The zip code||||||||
 
+## Attached Notes
 
-
-
+<p><span style="font-weight: 400;">Copy the dataLayer code sample and paste it on all pages before the main GTM code snippet.</span></p>
+<p><strong>Note :</strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">DataLayer shown in the code on the left is an example and should be customized for your needs.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Some data layer elements are required only in certain pages, or when data is available, like user_id, which is required after login.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If an element is not required in a certain page, please set it to undefined</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">This event must fire before the first pageview tracking event</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The following data layers are US specific, but should be pulled in for other countries where possible: express_number, ost_id, dealer_number, zip, and client_lifecycle</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Note that Market Code will be generated from within Google Tag Manager itself. </span></li>
+</ul>

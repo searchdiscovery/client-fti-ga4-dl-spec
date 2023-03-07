@@ -125,6 +125,30 @@ dataLayer.push({
 |segmentation|string|The segment for an article||||||||
 |vehicle|string|This is the investment vehicle tag|"mutual fund", "SMA", "ETF"|||||||
 
+## Attached Notes
 
-
-
+<table style="border-collapse: collapse; width: 55%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25.0547%;">&nbsp;</td>
+<td style="width: 25.0547%;">Current event</td>
+<td style="width: 50%;">New event</td>
+</tr>
+<tr>
+<td style="width: 25.0547%;">Page Load Started</td>
+<td style="width: 25.0547%;">pageView</td>
+<td style="width: 50%;">page_load_started</td>
+</tr>
+<tr>
+<td style="width: 25.0547%;">User Detected</td>
+<td style="width: 25.0547%;">datalayer_loaded</td>
+<td style="width: 50%;">detect_user</td>
+</tr>
+<tr>
+<td style="width: 25.0547%;">Page Load Completed</td>
+<td style="width: 25.0547%;">&nbsp;</td>
+<td style="width: 50%;">page_view</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<br />Page Load Started &gt; User Detected &gt; Page Load Completed</p>

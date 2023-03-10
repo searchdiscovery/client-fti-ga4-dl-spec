@@ -104,6 +104,33 @@ dataLayer.push({
 
 ## Attached Notes
 
+<table border="1">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Current event</td>
+<td>New event</td>
+</tr>
+<tr>
+<td>Page Load Started</td>
+<td>pageView</td>
+<td>page_load_started</td>
+</tr>
+<tr>
+<td>User Detected</td>
+<td>datalayer_loaded</td>
+<td>detect_user</td>
+</tr>
+<tr>
+<td>Page Load Completed</td>
+<td>&nbsp;</td>
+<td>page_view</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<br />Page Load Started &gt; User Detected &gt; Page Load Completed</p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">----<br />Pulled from FTI Standards</span></p>
 <p><span style="font-weight: 400;">Copy the dataLayer code sample and paste it on all pages before the main GTM code snippet.</span></p>
 <p><strong>Note :</strong></p>
 <ul>
